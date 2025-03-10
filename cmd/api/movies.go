@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/bangueco/movie-api/internal/data"
-	"github.com/bangueco/movie-api/internal/validator"
+	"github.com/bangueco/flixboxd-api/internal/data"
+	"github.com/bangueco/flixboxd-api/internal/validator"
 )
 
 func (app *application) listMoviesHandler(w http.ResponseWriter, r *http.Request) {

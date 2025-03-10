@@ -1,4 +1,4 @@
-module github.com/bangueco/movie-api
+module github.com/bangueco/flixboxd-api
 
 go 1.24.1
 

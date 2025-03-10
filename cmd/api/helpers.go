@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bangueco/movie-api/internal/validator"
+	"github.com/bangueco/flixboxd-api/internal/validator"
 	"github.com/julienschmidt/httprouter"
 )
 

@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/bangueco/movie-api/internal/data"
+	"github.com/bangueco/flixboxd-api/internal/data"
 	_ "github.com/joho/godotenv/autoload"
 	_ "github.com/lib/pq"
 )
